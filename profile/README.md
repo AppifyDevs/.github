@@ -1,9 +1,9 @@
-# Explore Appifydevs, LLC's GitHub
+# Explore AppifyDevs, LLC's GitHub
 ## Fully Managed On-Site Software Engineering Team To Build Your Product
 
-Appifydevs, LLC is a leading software development company specializing in delivering customized solutions to meet the unique needs of businesses worldwide. Founded in late 2023, we have successfully completed over 250 medium and large projects, serving more than 100 satisfied clients.
+AppifyDevs, LLC is a leading software development company specializing in delivering customized solutions to meet the unique needs of businesses worldwide. Founded in late 2023, we have successfully completed over 250 medium and large projects, serving more than 100 satisfied clients.
 
-![Appifydevs, LLC](https://raw.githubusercontent.com/AppifyDevs/AppifyDevs/refs/heads/main/main.png)
+![AppifyDevs, LLC](https://raw.githubusercontent.com/AppifyDevs/AppifyDevs/refs/heads/main/main.png)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://appifydevs.com/)
 [![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/appifydevs/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/appifydevs/)
