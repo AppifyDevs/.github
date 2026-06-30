@@ -23,6 +23,8 @@ AppifyDevs, LLC is a leading software development company specializing in delive
 
 - **E-commerce Solutions**: With extensive experience in developing large-scale e-commerce projects, our solutions include frontend and backend applications, as well as Android and iOS apps, all communicating seamlessly via REST APIs.
 
+- **AI & Machine Learning Solutions**: We build intelligent AI-powered applications using Large Language Models (LLMs), AI agents, chatbots, Retrieval-Augmented Generation (RAG), document intelligence, computer vision, natural language processing (NLP), predictive analytics, recommendation systems, and workflow automation to help businesses improve efficiency and deliver smarter customer experiences.
+
 - **DevOps Solutions**: We have developed several DevOps solutions, leveraging our in-depth understanding of the industry to help clients achieve their goals with scalable technology.
 
 - **Logistics Solutions**: Our custom logistics solutions incorporate features like Google Maps integration, routing generation, and delivery fulfillment to meet the specific needs of our clients.
