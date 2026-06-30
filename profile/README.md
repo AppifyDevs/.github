@@ -34,6 +34,7 @@ AppifyDevs, LLC is a leading software development company specializing in delive
 - **Media Streaming:** Solutions for YouTube-like platforms and content distribution.
 - **FinTech:** Microfinance and financial management solutions for diverse use cases.
 - **CMS Development:** Building custom and modular content management systems.
+- **AI/ML:**  Intelligent AI-powered applications, chatbots, AI agents, recommendation systems, document processing, computer vision, natural language processing (NLP), predictive analytics, and business automation.
 
 ## Technologies We Excel At:
 - **Frontend:** React.js, Next.js, Vue.js, Nuxt.js
