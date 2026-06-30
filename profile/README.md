@@ -38,6 +38,7 @@ AppifyDevs, LLC is a leading software development company specializing in delive
 ## Technologies We Excel At:
 - **Frontend:** React.js, Next.js, Vue.js, Nuxt.js
 - **Backend:** Node.js, Laravel, Django, FastAPI, Spring Boot
+- **AI/ ML:** AI Chatbots, AI Agents, Large Language Models (OpenAI, Claude, Gemini), LangChain, RAG, Vector Databases, Computer Vision, NLP, Recommendation Systems, Predictive     Analytics, Custom AI Solutions
 - **Full-Stack:** MERN Stack,PREN , MEVN Stack, VILT Stack
 - **Mobile App Development:** Native Android ,Native iOS, Flutter, React Native
 - **Database:** MongoDB, PostgreSQL, MySQL, Redis
@@ -48,7 +49,7 @@ AppifyDevs, LLC is a leading software development company specializing in delive
 
 - **Phone**: +8801601 995 906
 - **Email**: [hello@appifydevs.com](mailto:hello@appifydevs.com)
-- **Address**: House: 1151, Road: 10, Mirpur-DOHS, Dhaka, Bangladesh
+- **Address**: House 28, Road 1/B Block B, Nobodoy Housing, Mohammadpur,Dhaka, Bangladesh
 
 For more details, please visit our [Contact Us page](https://appifydevs.com/contact).
 
